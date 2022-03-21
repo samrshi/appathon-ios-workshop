@@ -2,8 +2,6 @@
 
 A simple recreation of Spotify's music player screen.
 
----
-
 ***Used as SwiftUI demonstration for:***
 - [App Team Carolina's](https://appteamcarolina.com) Spring 2022 Academy
 - iOS Workshop for [UNC App Lab's](https://applab.unc.edu) App-A-Thon
